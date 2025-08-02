@@ -15,6 +15,6 @@ A ready-to-use starter template for React 19 projects with Jest, React Testing L
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/react-19-testing-starter.git
-cd react19-with-jest-setup
+git clone https://github.com/your-username/React19-with-jest-setup.git
+cd React19-with-jest-setup
 npm install
