@@ -1,0 +1,1 @@
+module.exports= 'test-file-stub'; // This is a mock for file imports in tests, such as images or stylesheets.  
