@@ -1,4 +1,4 @@
-# React 19 Testing Starter with typecsript and jest
+# React 19 Testing Starter with typescript and jest
 
 A ready-to-use starter template for React 19 projects with Jest, React Testing Library, and TypeScript pre-configured.
 
